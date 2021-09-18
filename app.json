@@ -17,17 +17,17 @@
         "BOT_NAME": {
             "description": "هنا هتحط اسم بوت الاغاني",
             "required": false,
-            "value": "دندشه"
+            "value": "الفا"
         },
         "BOT_USERNAME": {
             "description": "يوزر نيــم البوت بتاعك منغير علامه -> @",
             "required": true,
-            "value": "dndusha_bot"
+            "value": "MUS_ALF_BOT"
         },
         "ASSISTANT_NAME": {
             "description": "يوزر نيــم بوتك تاني منغير ->  @",
             "required": true,
-            "value": "dndusha_bot"
+            "value": "MUS_ALF_BOT"
         },
         "BG_IMAGE": {
             "description": "هنا هتحط صوره الخلفيه ان وجدت",
@@ -69,12 +69,12 @@
         "UPDATES_CHANNEL": {
             "description": "هنا حط قناه السورس بتاعتك",
             "required": false,
-            "value": "BANDA1M"
+            "value": "so_alfaa"
         },
         "GROUP_SUPPORT": {
             "description": "هنا حط معرف جروبك",
             "required": false,
-            "value": "MLwmy"
+            "value": "Te_AlFaA"
         }
     },
     "buildpacks": [
