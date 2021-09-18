@@ -7,11 +7,11 @@
     "stack": "container",
     "env": {
         "SESSION_NAME": {
-            "description": "هنا حط كود تيرمكس ياصحبي",
+            "description": "هنا حط كود تيرمكس يبرو",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "هنا هتحط تكن بوتك يحبيب قلبي",
+            "description": "هنا هتحط تكن بوتك",
             "required": true
         },
         "BOT_NAME": {
@@ -42,7 +42,7 @@
         "OWNER_NAME": {
             "description": "حط اليوز بتاعك منغير علامه @",
             "required": false,
-            "value": "alazizy"
+            "value": "AAHMEED11"
         },
         "API_ID": {
             "description": "حــط App ID from my.telegram.org/apps",
