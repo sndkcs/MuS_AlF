@@ -508,10 +508,10 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("عرض القائمه..💘", callback_data="menu"),
-                    InlineKeyboardButton("اخفاء القائمه..🙂", callback_data="cls"),
+                    InlineKeyboardButton("عرض القائمه.. 💕", callback_data="menu"),
+                    InlineKeyboardButton("اخفاء القائمه.. 💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💞قناه السورس💞", url=f"https://t.me/BANDA1M")
+                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/so_alfaa")
                 ],
             ]
         )
@@ -555,10 +555,10 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("عرض القائمه..💘", callback_data="menu"),
-                    InlineKeyboardButton("اخفاء القائمه..🙂", callback_data="cls"),
+                    InlineKeyboardButton("عرض القائمه.. 💕", callback_data="menu"),
+                    InlineKeyboardButton("اخفاء القائمه.. 💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💞قناه السورس💞", url=f"https://t.me/BANDA1M")
+                    InlineKeyboardButton("💕قناه السورس", url=f"https://t.me/so_alfaa")
                 ],
             ]
         )
@@ -590,15 +590,15 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("انقر لتشغيل الاغنيه الاولي..🙂💔", callback_data=f'plll 0|{query}|{user_id}'),
+                        InlineKeyboardButton("انقر لتشغيل الاغنيه الاولي.. ", callback_data=f'plll 0|{query}|{user_id}'),
                     ],
                     [
-                        InlineKeyboardButton("انقر لتشغيل الاغنيه الثانيه..🙂💔", callback_data=f'plll 2|{query}|{user_id}'),
+                        InlineKeyboardButton("انقر لتشغيل الاغنيه الثانيه.. ", callback_data=f'plll 2|{query}|{user_id}'),
                     ],
                     [
-                        InlineKeyboardButton("انقر لتشغيل الاغنيه الثالثه..🙂💔", callback_data=f'plll 3|{query}|{user_id}'),
+                        InlineKeyboardButton("انقر لتشغيل الاغنيه الثالثه.. ", callback_data=f'plll 3|{query}|{user_id}'),
                     ],
-                    [InlineKeyboardButton(text="💞اخفاء القائمه💞", callback_data="cls")],
+                    [InlineKeyboardButton(text="💕 اخفاء القائمه", callback_data="cls")],
                 ]
             )
             await message.reply_photo(
@@ -636,10 +636,10 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("عرض القائمه..💘", callback_data="menu"),
-                    InlineKeyboardButton("اخفاء القائمه..🙂", callback_data="cls"),
+                    InlineKeyboardButton("عرض القائمه..💕", callback_data="menu"),
+                    InlineKeyboardButton("اخفاء القائمه..💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💞قناه السورس💞", url=f"https://t.me/BANDA1M")
+                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/so_alfaa") 
                 ],
             ]
             )
@@ -735,10 +735,10 @@ async def lol_cb(b, cb):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("عرض القائمه..💘", callback_data="menu"),
-                    InlineKeyboardButton("اخفاء القائمه..🙂", callback_data="cls"),
+                    InlineKeyboardButton("عرض القائمه..💕", callback_data="menu"),
+                    InlineKeyboardButton("اخفاء القائمه..💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💞قناه السورس💞", url=f"https://t.me/BANDA1M")
+                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/so_alfaa")
                 ],
             ]
     )
