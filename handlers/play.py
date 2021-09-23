@@ -376,7 +376,7 @@ async def m_cb(b, cb):
                 
                 ],
                 [       
-                    InlineKeyboardButton("اخفاء القائمه..🙂", "cls")
+                    InlineKeyboardButton("اخفاء القائمه.💕", "cls")
                 ]        
             ]
         )
@@ -598,7 +598,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton("انقر لتشغيل الاغنيه الثالثه.. ", callback_data=f'plll 3|{query}|{user_id}'),
                     ],
-                    [InlineKeyboardButton(text="💕 اخفاء القائمه", callback_data="cls")],
+                    [InlineKeyboardButton(text="اخفاء القائمه 💕", callback_data="cls")],
                 ]
             )
             await message.reply_photo(
