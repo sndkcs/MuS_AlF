@@ -1,59 +1,59 @@
 {
-    "name": "MADISON",
-    "logo": "https://telegra.ph/file/c05b5f73f392a9e986c45.jpg",
+    "name": "@JMTHON",
+    "logo": "https://telegra.ph/file/f0d163829cdb3b2a1b638.jpg",
     "description": "UFO Music Voice Chat.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/MADISON111110/MuS_AlF",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
-            "description": "هنا حط كود تيرمكس يبرو",
+            "description": "كود تريمكس الخاص بك",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "هنا هتحط تكن بوتك",
+            "description": "توكن بوتك",
             "required": true
         },
         "BOT_NAME": {
-            "description": "هنا هتحط اسم بوت الاغاني",
+            "description": "اسم بوتك الخاص بلغاني",
             "required": false,
             "value": "الفا"
         },
         "BOT_USERNAME": {
-            "description": "يوزر نيــم البوت بتاعك منغير علامه -> @",
+            "description": "يوزرك بدون  @",
             "required": true,
             "value": "MUS_ALF_BOT"
         },
         "ASSISTANT_NAME": {
-            "description": "يوزر نيــم بوتك تاني منغير ->  @",
+            "description": "يوزر بوتك بدون ->  @",
             "required": true,
             "value": "MUS_ALF_BOT"
         },
         "BG_IMAGE": {
-            "description": "هنا هتحط صوره الخلفيه ان وجدت",
+            "description": "صوره الخلفيه",
             "required": false,
-            "value":"https://telegra.ph/file/c05b5f73f392a9e986c45.jpg"
+            "value":"https://telegra.ph/file/f0d163829cdb3b2a1b638.jpg"
         },
         "THUMB_IMG": {
-            "description": "سيبــها زي مهي عادي يبا -> bg_image",
+            "description": "لتلعب بيها" -> bg_image",
             "required": false,
-            "value": "https://telegra.ph/file/c05b5f73f392a9e986c45.jpg"
+            "value": "https://telegra.ph/file/f0d163829cdb3b2a1b638.jpg"
         },
         "OWNER_NAME": {
-            "description": "حط اليوز بتاعك منغير علامه @",
+            "description": "حط يوزرك بدون @",
             "required": false,
             "value": "AAHMEED11"
         },
         "API_ID": {
-            "description": "حــط App ID from my.telegram.org/apps",
+            "description": " ايبي ايدي احصل عليه من هنا: my.telegram.org/apps",
             "required": true
         },
         "API_HASH": {
-            "description": "حــط Api hash from my.telegram.org/apps",
+            "description": "ايبي هاش احصل عليه من هنا : my.telegram.org/apps",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "حط ايدي الادمن بتاع البوت",
+            "description": "حط ايدي المساعد",
             "required": true
         },
         "DURATION_LIMIT": {
@@ -62,17 +62,17 @@
             "value": "60"
         },
         "PMPERMIT": {
-            "description": "سيــبها.",
+            "description": "عوفها.",
             "required": false,
             "value": "ENABLE"
         },
         "UPDATES_CHANNEL": {
-            "description": "هنا حط قناه السورس بتاعتك",
+            "description": "هنا حط قنا السورس مالتك",
             "required": false,
             "value": "so_alfaa"
         },
         "GROUP_SUPPORT": {
-            "description": "هنا حط معرف جروبك",
+            "description": "هنا حط معرف كروبك",
             "required": false,
             "value": "Te_AlFaA"
         }
